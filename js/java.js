@@ -22,7 +22,7 @@ if (imc <= 18.5) {
  else if(imc <= 29.9) {
      Resultado ="Sobrepeso";
  }
- else if(imc <= 30) {
+ else if(imc  > 30) {
      Resultado = "Obesidad";
  }
 
